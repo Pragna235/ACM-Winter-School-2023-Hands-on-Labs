@@ -11,4 +11,4 @@
 * Lab 6
   * Task 1 Dataset Link : https://github.com/Pragna235/ACM-Winter-School-2023-Hands-on-Labs/blob/main/PHEME_preprocessed.csv
   * Task 2 Dataset Link :
-  * Task 3 Dataset Link : 
+  * Task 3 Dataset Link : https://github.com/Pragna235/ACM-Winter-School-2023-Hands-on-Labs/blob/main/twitter_credentials.json

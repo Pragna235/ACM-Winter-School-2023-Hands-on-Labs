@@ -12,5 +12,6 @@
   * Task 1 Dataset Link : https://github.com/Pragna235/ACM-Winter-School-2023-Hands-on-Labs/blob/main/PHEME_preprocessed.csv
   * Task 2 Dataset Link :
   * Task 3 Dataset Link : https://github.com/Pragna235/ACM-Winter-School-2023-Hands-on-Labs/blob/main/twitter_credentials.json
+  * Multimodal Rumor Detection (Fake News) using Deep Learning
 
 Reference for Lab 6 : https://drive.google.com/drive/u/0/folders/1d92E88Xr05Ozs-yBDQ9Gi8wC29bjmNAV

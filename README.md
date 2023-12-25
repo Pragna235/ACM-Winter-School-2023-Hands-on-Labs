@@ -8,4 +8,6 @@
 * Lab 5
   * Dataset Link : https://github.com/Pragna235/ACM-Winter-School-2023-Hands-on-Labs/blob/main/Iris.csv
   * K-Means Clustering and DBScan Clustering Algorithms and Hierarchial Clustering Algorithms (Agglomerative and Divisive)
+* Lab 6
+  * Task 1 Dataset Link : https://github.com/Pragna235/ACM-Winter-School-2023-Hands-on-Labs/blob/main/PHEME_preprocessed.csv
   

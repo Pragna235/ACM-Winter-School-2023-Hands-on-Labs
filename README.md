@@ -15,3 +15,4 @@
 
 Reference for Lab 6 : https://drive.google.com/drive/u/0/folders/1d92E88Xr05Ozs-yBDQ9Gi8wC29bjmNAV
 * Lab 7 - LLM Finetuning Demo
+* Lab 8 - TF GAN (Generative Adversarial Network)
